@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Use pathlib in DOTA ops (#7552)
