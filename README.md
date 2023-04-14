@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Move Google Drive to slow tests (#8163)
