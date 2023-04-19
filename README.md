@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
