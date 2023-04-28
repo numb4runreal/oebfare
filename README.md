@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add Neural Magic Docs integrations page (#7234)
