@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add new YOLOv8 OBB model metrics (#7379)
