@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+TensorRT FP16 export with dynamic=True (#7870)
