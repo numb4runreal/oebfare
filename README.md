@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
