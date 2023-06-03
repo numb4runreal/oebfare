@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update CI.md with CI links (#8786)
