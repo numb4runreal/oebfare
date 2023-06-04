@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add missing Explorer docs reference pages (#7455)
