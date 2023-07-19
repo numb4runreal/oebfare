@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
