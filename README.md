@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
