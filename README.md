@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
