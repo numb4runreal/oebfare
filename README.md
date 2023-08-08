@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
