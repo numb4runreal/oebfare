@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Resize angle, count, and stage on keypoint number change (#7598)
