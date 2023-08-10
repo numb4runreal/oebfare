@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Feature: Create HUB Models from CLI or Python Script (#7316)
