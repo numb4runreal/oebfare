@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
