@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Fix TypeError in check_cfg() (#9245)
