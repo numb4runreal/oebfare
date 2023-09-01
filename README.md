@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Docs partial mdformat improvements (#7378)
