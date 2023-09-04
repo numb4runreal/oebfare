@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Retry once for Docker CI failures (#8164)
