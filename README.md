@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Elaborate Train and Predict mode docs arguments (#8137)
