@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
