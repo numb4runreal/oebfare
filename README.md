@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
