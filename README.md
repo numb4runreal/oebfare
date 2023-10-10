@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
