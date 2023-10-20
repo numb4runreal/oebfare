@@ -1,1 +1,1 @@
-add logs
+Add PaddlePaddle Docs Integrations Page (#8858)
