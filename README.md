@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
