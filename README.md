@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add Amazon Sagemaker Docs integrations page (#7293)
