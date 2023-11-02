@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Fix PNNX ubuntu -> linux bug (#7050)
