@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
