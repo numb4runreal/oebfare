@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
