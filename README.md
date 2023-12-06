@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
