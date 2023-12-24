@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Optimize TFJS export on ARM64 (#8946)
