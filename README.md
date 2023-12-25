@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+YOLOv8 INT8 TFLite Inference Example (#7317)
