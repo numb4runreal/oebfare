@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
