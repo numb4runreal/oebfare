@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
