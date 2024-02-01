@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
