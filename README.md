@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
