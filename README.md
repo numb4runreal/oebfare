@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
