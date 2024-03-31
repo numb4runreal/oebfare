@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
