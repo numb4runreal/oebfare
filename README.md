@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
