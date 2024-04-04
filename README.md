@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Replace onnx2tf usage from CLI to Python (#8429)
