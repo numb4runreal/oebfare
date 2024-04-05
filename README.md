@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Docs partial mdformat improvements (#7378)
