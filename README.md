@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
