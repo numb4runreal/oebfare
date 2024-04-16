@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
