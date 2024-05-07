@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
