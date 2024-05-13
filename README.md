@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update the heatmap module code + docs (#7045)
