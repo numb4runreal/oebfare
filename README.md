@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add docstrings to new HUB functions (#7576)
