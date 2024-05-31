@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+OpenVino 2024.0.0 (#8726)
