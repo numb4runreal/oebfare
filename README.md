@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+docs: update view-results-in-terminal.md (#66)
