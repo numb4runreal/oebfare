@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
