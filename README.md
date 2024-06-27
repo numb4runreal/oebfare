@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
