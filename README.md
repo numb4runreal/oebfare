@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add docs guide terminal images (#8819)
