@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update Colab notebook for YOLOv8.1 (#8660)
