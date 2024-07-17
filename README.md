@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Allow Annotator PIL.Image inputs (#8397)
