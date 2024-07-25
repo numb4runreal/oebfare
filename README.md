@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Fix device counting method to account for double-digit device IDs (#8502)
