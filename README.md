@@ -1,1 +1,1 @@
-add yolov10
+Auto-format by https://ultralytics.com/actions
