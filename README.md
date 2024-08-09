@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Update pyproject.toml and Docs (#7274)
