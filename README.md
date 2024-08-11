@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+New HUB Cloud Training docs page (#8174)
