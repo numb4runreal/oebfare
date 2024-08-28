@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
