@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix OpenVINO missing batch-size bug (#9264)
