@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Update Docs language dropdown height (#6927)
