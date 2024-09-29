@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update H1 in Explorer API docs (#7813)
