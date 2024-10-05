@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+fix predict with class filter
