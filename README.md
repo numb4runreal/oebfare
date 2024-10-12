@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add PaddlePaddle Docs Integrations Page (#8858)
