@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix ONNX GPU inference bug (#6840)
