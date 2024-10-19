@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Fix IS_PYTHON_3_12 bug (#9258)
