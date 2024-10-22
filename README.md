@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
