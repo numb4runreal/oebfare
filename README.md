@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
